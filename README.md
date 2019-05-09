@@ -8,7 +8,7 @@ The A6_S tool is a attack tool that launched attack at layer 0 in Secure Water a
 
 
 
-## Hardare requirements
+## Hardware requirements
 
     Bootable Ubuntu OS
     Laptop with 2 interfaces Control
@@ -22,7 +22,7 @@ The A6_S tool is a attack tool that launched attack at layer 0 in Secure Water a
     Ethernet/IP dissectors for Scapy (https://github.com/scy-phy/scapy-cip-enip)
 
 
-## Setups
+## Setup
 
     Connect 2 physical wire. One from your laptop to the RIO module and the other from the RIO module back to the lapto. 
   
