@@ -43,7 +43,7 @@ The A6_S tool is a attack tool that launched attack at layer 0 in Secure Water a
 ## Component instruments
 |Stage     |Acturators|Sensors   |
 |----------|----------|----------|
-|  1| P101, P102 | LIT101, FIT101 |
+|  1| P101, P102,  MV101 | LIT101, FIT101 |
 |2| P201, P202, P203, P204, P205, P206, P207, P208, MV201 |FIT201, AIT201, AIT202, AIT203, LS201, LS202| 
 |3| P301, P302, MV301, MV302, MV303, MV304 | LIT301, FIT301, PSH301, DPSH301, DPIT301|
 |4| P401 , P402, P403, P404, UV401 | LIT401, FIT401, AIT401, AIT402| 
