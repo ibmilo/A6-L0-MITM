@@ -43,7 +43,7 @@ The A6_L0 attack tool launches attack at layer 0 network in Secure Water and Tre
 
 
 ## Component instruments
-|Stage     |Acturators|Sensors   |
+|Stage     |Actuators|Sensors   |
 |----------|----------|----------|
 |  1| P101, P102,  MV101 | LIT101, FIT101 |
 |2| P201, P202, P203, P204, P205, P206, P207, P208, MV201 |FIT201, AIT201, AIT202, AIT203, LS201, LS202| 
