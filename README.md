@@ -1,6 +1,6 @@
 # A6-L0-MITM
 
-The A6_L0 tool attack tool is launched attack at layer 0 in Secure Water and Treatment (SWaT) testbed in Singapore University of Technology and Design (SUTD). With this tool, one is able to control the components instrument of SWaT. This is a Man-In-the-Middle attack betweeen PLC to the RIO module. The communication used is ENIP. 
+The A6_L0 attack tool launches attack at layer 0 network in Secure Water and Treatment (SWaT) testbed in Singapore University of Technology and Design (SUTD). With this tool, one is able to control the components instrument of SWaT. This is a Man-In-the-Middle attack betweeen PLC to the RIO module. The communication used is ENIP. 
 
 
 ###### Some attributes to 
