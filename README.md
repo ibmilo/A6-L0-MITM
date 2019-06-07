@@ -1,9 +1,12 @@
 # A6-L0-MITM
 
-The A6_S tool is a attack tool that launched attack at layer 0 in Secure Water and Treatment (SWaT) testbed. With this tool, one is able to control the components instrument of SWaT. With this tool, researchers can use to design experiments of attack and/or check against the defense solutions placed or of any other research studies. This is a Man-In-the-Middle attack where the ENIP packets communication are coming from the PLCs to the RIO module.
+The A6_L0 tool attack tool is launched attack at layer 0 in Secure Water and Treatment (SWaT) testbed in Singapore University of Technology and Design (SUTD). With this tool, one is able to control the components instrument of SWaT. This is a Man-In-the-Middle attack betweeen PLC to the RIO module. The communication used is ENIP. 
 
 
-###### Some attributes to  https://github.com/ifyouaretea/A6-MITM    \nhttps://github.com/scy-phy/swat
+###### Some attributes to 
+
+    https://github.com/ifyouaretea/A6-MITM    
+    https://github.com/scy-phy/swat
 
 
 
@@ -47,6 +50,6 @@ The A6_S tool is a attack tool that launched attack at layer 0 in Secure Water a
 |3| P301, P302, MV301, MV302, MV303, MV304 | LIT301, FIT301, PSH301, DPSH301, DPIT301|
 |4| P401 , P402, P403, P404, UV401 | LIT401, FIT401, AIT401, AIT402| 
 |5| MV501, MV502, MV503, MV504| FIT501, FIT502, FIT503, FIT504,  AIT501, AIT502, AIT503, AIT504, PIT501, PIT502, PIT503|
-|6| P601, P602, P603| |
+|6| P601, P602, P603| FIT601|
 
 
